@@ -1,0 +1,47 @@
+RUN	com.demo.GoogleLoadtest	googleloadtest	1560258204574	 	3.0.0
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205325
+USER	GoogleLoadTest	1	START	1560258205319	1560258205319
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205332
+USER	GoogleLoadTest	2	START	1560258205332	1560258205332
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205333
+USER	GoogleLoadTest	3	START	1560258205333	1560258205333
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205333
+USER	GoogleLoadTest	4	START	1560258205333	1560258205333
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205334
+USER	GoogleLoadTest	5	START	1560258205334	1560258205334
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205334
+USER	GoogleLoadTest	6	START	1560258205334	1560258205334
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205335
+USER	GoogleLoadTest	7	START	1560258205335	1560258205335
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205335
+USER	GoogleLoadTest	8	START	1560258205335	1560258205335
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205336
+USER	GoogleLoadTest	9	START	1560258205336	1560258205336
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258205336
+USER	GoogleLoadTest	10	START	1560258205336	1560258205336
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210346
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210346
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210346
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210347
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210346
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210348
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258210355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215346
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215346
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215356
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215366
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215366
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258215366
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258220355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258220355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258220355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258220355
+ERROR	GET_Google: Failed to build request: url google.de/ can't be parsed into an Uri: j.l.IllegalArgumentException: google.de/ could not be parsed into a proper Uri, missing scheme 	1560258220365
+ERROR	

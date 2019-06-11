@@ -1,0 +1,13 @@
+products:
+   src/main/scala/com/demo/GoogleLoadtest.scala -> build/classes/scala/main/com/demo/GoogleLoadtest.class
+binary dependencies:
+   src/main/scala/com/demo/GoogleLoadtest.scala -> /home/tan/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-commons/3.1.2/1d81052a34ea3a2544af722af6ec58c4a1bd9c50/gatling-commons-3.1.2.jar
+   src/main/scala/com/demo/GoogleLoadtest.scala -> /home/tan/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-core/3.1.2/5d00ab1a3ee585383c1f2bc76da288e7a05d0233/gatling-core-3.1.2.jar
+   src/main/scala/com/demo/GoogleLoadtest.scala -> /home/tan/.gradle/caches/modules-2/files-2.1/io.gatling/gatling-http/3.1.2/a71973fd7f4f84251a6a0b8be743c01dc43f93d6/gatling-http-3.1.2.jar
+   src/main/scala/com/demo/GoogleLoadtest.scala -> /home/tan/.gradle/caches/modules-2/files-2.1/org.checkerframework/checker-qual/2.6.0/64eebcbc8b291ca2d37d2dc29ddcba4eb5026d79/checker-qual-2.6.0.jar
+   src/main/scala/com/demo/GoogleLoadtest.scala -> /home/tan/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.12.8/36b234834d8f842cdde963c8591efae6cf413e3f/scala-library-2.12.8.jar
+   src/main/scala/com/demo/GoogleLoadtest.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   src/main/scala/com/demo/GoogleLoadtest.scala -> com.demo.GoogleLoadtest

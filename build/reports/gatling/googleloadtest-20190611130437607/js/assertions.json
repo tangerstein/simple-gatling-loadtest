@@ -1,0 +1,10 @@
+{
+  "simulation": "com.demo.GoogleLoadtest",
+  "simulationId": "googleloadtest",
+  "start": 1560258277607,
+  "description": "",
+  "scenarios": ["GoogleLoadTest"],
+  "assertions": [
+
+  ]
+}
